@@ -5,7 +5,7 @@
 
 Welcome to the **AI Food Recipe Generator** — a smart Streamlit app that generates personalized recipes using **Google's Gemini AI model**.
 
-![banner](https://img.shields.io/badge/Built%20With-Streamlit-red?style=for-the-badge) ![badge](https://img.shields.io/badge/Powered%20By-Gemini-blueviolet?style=for-the-badge)
+
 
 ---
 
@@ -65,7 +65,6 @@ You can deploy the app easily to [Streamlit Cloud](https://streamlit.io/cloud) �
 ## 👩‍💻 Author
 
 **Sanya Gupta**
-🔗 [LinkedIn](https://www.linkedin.com/in/sanyagupta31) | 🌐 [Website](https://Aireceipe.com)
 
 ---
 
@@ -73,7 +72,6 @@ You can deploy the app easily to [Streamlit Cloud](https://streamlit.io/cloud) �
 
 This project is open-source and free to use for educational or personal purposes.
 
-```
 
 ---
 
