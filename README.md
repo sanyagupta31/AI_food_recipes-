@@ -7,7 +7,6 @@ Welcome to the **AI Food Recipe Generator** — a smart Streamlit app that gener
 
 
 
----
 
 ## ✨ Features
 
@@ -58,7 +57,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-You can deploy the app easily to [Streamlit Cloud](https://streamlit.io/cloud) 🚀
+You can deploy the app easily to [Streamlit Cloud](https://478llreejuu7bwawoaxuzv.streamlit.app/) 🚀
 
 ---
 
