@@ -1,14 +1,12 @@
 
-
-````markdown
-# 🍽️ AI Food Recipe Generator
+🍽️ AI Food Recipe Generator
 
 Welcome to the **AI Food Recipe Generator** — a smart Streamlit app that generates personalized recipes using **Google's Gemini AI model**.
 
+---
 
 
-
-## ✨ Features
+✨ Features
 
 - 🥗 Select Cuisine, Meal Type, and Dietary Restrictions  
 - 🧾 Add Ingredients, Difficulty Level, Cooking Time, and Servings  
@@ -18,22 +16,22 @@ Welcome to the **AI Food Recipe Generator** — a smart Streamlit app that gener
 
 ---
 
-## 🚀 How to Run
-
-### 🔧 Requirements
+🚀 How to 
+🔧 Requirements
 
 - Python 3.9+
 - Streamlit
 - `google-generativeai` package
+  ---
 
-### 🔑 Setup API Key
+🔑 Setup API Key
 
 1. Create a `.streamlit/secrets.toml` file:
     ```toml
     GEMINI_API_KEY = "your-gemini-api-key-here"
     ```
 
-### ▶️ Run Locally
+ ▶️ Run Locally
 
 ```bash
 pip install -r requirements.txt
@@ -42,7 +40,7 @@ streamlit run app.py
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
 ```
 📁 AI_food_recipe/
@@ -55,19 +53,19 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live Demo
+🌐 Live Demo
 
 You can deploy the app easily to [Streamlit Cloud](https://478llreejuu7bwawoaxuzv.streamlit.app/) 🚀
 
 ---
 
-## 👩‍💻 Author
+👩‍💻 Author
 
 **Sanya Gupta**
 
 ---
 
-## 📄 License
+ 📄 License
 
 This project is open-source and free to use for educational or personal purposes.
 
